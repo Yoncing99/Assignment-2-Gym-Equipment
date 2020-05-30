@@ -40,4 +40,4 @@ https://github.com/Yoncing99/Assignment-2-Gym-Equipment/blob/master/Cart.java
 
 ## Output
 Output
-
+https://github.com/Yoncing99/Assignment-2-Gym-Equipment/blob/master/Output-A2.docx
