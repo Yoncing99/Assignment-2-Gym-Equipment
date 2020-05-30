@@ -1,4 +1,3 @@
-```java
 package assignment2;
 
 import javax.swing.JOptionPane;
@@ -278,4 +277,4 @@ public class MyFrame extends javax.swing.JFrame {
         WindowEvent winCloseing = new WindowEvent(this,WindowEvent.WINDOW_CLOSING);
     }
 }
-```
+
